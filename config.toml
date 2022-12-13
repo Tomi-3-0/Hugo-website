@@ -1,4 +1,8 @@
 baseURL = 'http://coolWebsite.org/'
 languageCode = 'en-us'
-title = 'My Cool Hugo Site'
+title = "Caleb's  Hugo Site"
 theme = 'hyde'
+
+[params]
+
+description = "Caleb is a driven software engineer."
